@@ -1,5 +1,5 @@
 import sys # provides access to functions and variables fo interacting with python interpreter and it's immediate environment.
-import logging
+from src.logger import logging
 
 
 
